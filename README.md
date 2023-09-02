@@ -7,4 +7,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/aspect-ratio.git">Day #3. Aspect ratio generator</a></li>
   <li><a href="https://www.github.com/grigoryan-m/qr-codes.git">Day #4. QR code generator</a></li>
   <li><a href="https://www.github.com/grigoryan-m/color-guess.git">Day #5. Guess the RGB color</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/geometric-art.git">Day #6. Geometric art generator</a></li>
 </ul>
