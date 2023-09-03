@@ -8,5 +8,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/qr-codes.git">Day #4. QR code generator</a></li>
   <li><a href="https://www.github.com/grigoryan-m/color-guess.git">Day #5. Guess the RGB color</a></li>
   <li><a href="https://www.github.com/grigoryan-m/geometric-art.git">Day #6. Geometric art generator</a></li>
-  <li><a href="https://www.github.com/grigoryan-m/password-generator.git">Day #7. Strong password generator // learnt about 'use strict'</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/password-generator.git">Day #7. Strong password generator</a> // learnt about 'use strict'</li>
 </ul>
