@@ -11,4 +11,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/password-generator.git">Day #7. Strong password generator</a> // learnt about 'use strict'</li>
   <li><a href="https://www.github.com/grigoryan-m/internet-speed-test.git">Day #8. Internet speed test</a></li>
   <li><a href="https://www.github.com/grigoryan-m/wikipedia-quiz.git">Day #9. Wikipedia quiz</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/guess-rotation.git">Day #10. Guess the rotation</a></li>
 </ul>
