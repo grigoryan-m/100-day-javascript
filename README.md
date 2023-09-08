@@ -13,4 +13,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/wikipedia-quiz.git">Day #9. Wikipedia quiz</a></li>
   <li><a href="https://www.github.com/grigoryan-m/guess-rotation.git">Day #10. Guess the rotation</a> // more semantic HTML</li>
   <li><a href="https://www.github.com/grigoryan-m/ultimate-tic-tac-toe.git">Day #11. Ultimate tic-tac-toe</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/reading-grid.git">Day #12. Reading grid</a></li>
 </ul>
