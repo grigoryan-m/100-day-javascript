@@ -15,4 +15,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/ultimate-tic-tac-toe.git">Day #11. Ultimate tic-tac-toe</a></li>
   <li><a href="https://www.github.com/grigoryan-m/reading-grid.git">Day #12. Reading grid</a></li>
   <li><a href="https://www.github.com/grigoryan-m/customizable-alerts.git">Day #13. Customizable alerts</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/guess-the-code.git">Day #14. Guess the code</a></li>
 </ul>
