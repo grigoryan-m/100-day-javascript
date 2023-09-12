@@ -17,4 +17,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/customizable-alerts.git">Day #13. Customizable alerts</a></li>
   <li><a href="https://www.github.com/grigoryan-m/guess-the-code.git">Day #14. Guess the code</a></li>
   <li><a href="https://www.github.com/grigoryan-m/guess-the-champion.git">Day #15. Guess the LoL champion</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/drum-kit.git">Day #16. Drum kit</a></li>
 </ul>
