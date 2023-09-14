@@ -19,4 +19,5 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/guess-the-champion.git">Day #15. Guess the LoL champion</a></li>
   <li><a href="https://www.github.com/grigoryan-m/drum-kit.git">Day #16. Drum kit</a></li>
   <li><a href="https://www.github.com/grigoryan-m/dnd-dice-roller.git">Day #17. Dice roller</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/whiteboard.git">Day #18. Whiteboard</a></li>
 </ul>
