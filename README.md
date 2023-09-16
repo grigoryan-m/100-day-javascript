@@ -21,4 +21,9 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/dnd-dice-roller.git">Day #17. Dice roller</a></li>
   <li><a href="https://www.github.com/grigoryan-m/whiteboard.git">Day #18. Whiteboard</a></li>
   <li><a href="https://www.github.com/grigoryan-m/dynamic-forms.git">Day #19. Dynamic forms</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/bmi-calculator.git">Day #20. BMI calculator</a></li>
+  <br/>
+  
+  Finished 20% of challenge!
+  <hr/>
 </ul>
