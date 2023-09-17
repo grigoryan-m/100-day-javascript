@@ -26,4 +26,5 @@ Some pure js projects:
   
   Finished 20% of challenge!
   <hr/>
+  <li><a href="https://www.github.com/grigoryan-m/dnd-hp-tracker.git">Day #21. DND HP tracker</a></li>
 </ul>
