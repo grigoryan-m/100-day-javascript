@@ -1,5 +1,6 @@
 # 100-day-javascript
 List of my 100 Javascript and React-js projects!
+
 Some pure js projects:
 <ul>
   <li><a href="https://www.github.com/grigoryan-m/music-player.git">Day #1. Audio player</a></li>
@@ -22,9 +23,10 @@ Some pure js projects:
   <li><a href="https://www.github.com/grigoryan-m/whiteboard.git">Day #18. Whiteboard</a></li>
   <li><a href="https://www.github.com/grigoryan-m/dynamic-forms.git">Day #19. Dynamic forms</a></li>
   <li><a href="https://www.github.com/grigoryan-m/bmi-calculator.git">Day #20. BMI calculator</a></li>
-  <br/>
-  
-  Finished 20% of challenge!
-  <hr/>
   <li><a href="https://www.github.com/grigoryan-m/dnd-hp-tracker.git">Day #21. DND HP tracker</a></li>
+</ul>
+
+React js projects:
+<ul>
+  <li><a href="https://www.github.com/grigoryan-m/get-keycode.git">Day #22. Get keycode</a></li>
 </ul>
