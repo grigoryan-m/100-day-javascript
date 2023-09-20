@@ -30,4 +30,5 @@ React js projects:
 <ul>
   <li><a href="https://www.github.com/grigoryan-m/get-keycode.git">Day #22. Get keycode</a></li>
   <li><a href="https://www.github.com/grigoryan-m/dnd-xp-counter.git">Day #23. D&D XP counter</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/caesar-cipher.git">Day #24. Caesar cipher</a></li>
 </ul>
