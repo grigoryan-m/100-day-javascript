@@ -33,4 +33,5 @@ React js projects:
   <li><a href="https://www.github.com/grigoryan-m/caesar-cipher.git">Day #24. Caesar cipher</a></li>
   <li><a href="https://www.github.com/grigoryan-m/drum-kit-react.git">Day #25. Drum kit (in react)</a></li>
   <li><a href="https://www.github.com/grigoryan-m/geometric-art-react.git">Day #26. Geometric art generator (in react)</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/dnd-spell-cards.git">Day #27. DND Spell cards</a></li>
 </ul>
