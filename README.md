@@ -35,3 +35,9 @@ React js projects:
   <li><a href="https://www.github.com/grigoryan-m/geometric-art-react.git">Day #26. Geometric art generator (in react)</a></li>
   <li><a href="https://www.github.com/grigoryan-m/dnd-spell-cards.git">Day #27. DND Spell cards</a></li>
 </ul>
+
+Back to pure js:
+<ul>
+  <li><a href="https://www.github.com/grigoryan-m/day-of-week.git">Day #28. Get day of week</a></li>
+</ul>
+
