@@ -40,5 +40,6 @@ Back to pure js:
 <ul>
   <li><a href="https://www.github.com/grigoryan-m/day-of-week.git">Day #28. Get day of week</a></li>
   <li><a href="https://www.github.com/grigoryan-m/simon-says.git">Day #29. Simon says</a></li>
+  <li><a href="https://www.github.com/grigoryan-m/sum-of-matrixes.git">Day #30. Sum of matrixes</a></li>
 </ul>
 
