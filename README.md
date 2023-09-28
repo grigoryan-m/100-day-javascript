@@ -1,5 +1,5 @@
-# 100-day-javascript
-List of my 100 Javascript and React-js projects!
+# 31-javascript-projects
+List of my 31 Javascript and React-js projects!
 
 Some pure js projects:
 <ul>
